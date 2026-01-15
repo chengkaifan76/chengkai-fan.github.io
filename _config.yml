@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image\chengkai-photo-1.JPG"
+  avatar           : "images/chengkai-photo-1.JPG"
   name             : "Chengkai Fan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
